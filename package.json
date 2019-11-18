@@ -1,0 +1,28 @@
+{
+    "name": "mulahasanovic-extension-pack",
+    "displayName": "Mulahasanovic Extension Pack",
+    "description": "My personal favourite and useful extensions packed for easy migration",
+    "publisher": "mulahasanovic",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mulahasanovic/mulahasanovic-extension-pack"
+    },
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "pnp.polacode",
+        "hookyqr.beautify",
+        "mrmlnc.vscode-apache",
+        "shan.code-settings-sync",
+        "wayou.vscode-todo-highlight",
+        "britesnow.vscode-toggle-quotes",
+        "equinusocio.vsc-material-theme",
+        "fabiospampinato.vscode-todo-plus",
+        "coenraads.bracket-pair-colorizer-2"
+    ]
+}
